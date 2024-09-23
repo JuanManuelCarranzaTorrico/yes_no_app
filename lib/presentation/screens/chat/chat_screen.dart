@@ -38,7 +38,7 @@ class _ChatView extends StatelessWidget {
                 return Text('Indice: $index');
               },)
               ),
-            Text("Mundo")
+            const Text("Mundo")
           ]
         ),
       ),
